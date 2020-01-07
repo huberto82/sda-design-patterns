@@ -1,8 +1,8 @@
 # Design patterns
-For SDA Java course
+SDA Java course
 
-## Kilka implementacji worców projektowych:
-W osobnych pakietach znajdują się przykłady, dla danego wzoraca
+## Kilka implementacji wzorców projektowych:
+W osobnych pakietach znajdują się przykłady, dla danego wzorca
 1. builders - przykłady budowniczych
 2. command - polecenie
 3. decorator - dekorator
